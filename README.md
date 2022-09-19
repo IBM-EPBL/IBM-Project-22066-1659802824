@@ -3,7 +3,7 @@ A Novel Method for Handwritten Digit Recognition System
 
 
 Team Members:
-Vijay Krishna A B (team leader)
-Harish B
-Sree Sailesh K O
-Sudarsan M S
+1. Vijay Krishna A B (team leader)
+2. Harish B
+3. Sree Sailesh K O
+4. Sudarsan M S
